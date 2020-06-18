@@ -1,0 +1,22 @@
+.container {
+  
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.myList {
+  background-color: powderblue;
+  border: gold 1px solid;
+  display: flex; 
+  flex-flow: row wrap;
+  
+}
+ul {
+  list-style-type:  none;
+}
+
+
+#info {
+
+text-align: center;
+
+}
